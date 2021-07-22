@@ -1,0 +1,103 @@
+*{ 
+    margin: 0; 
+	padding: 0; 
+	font-family: Century Gothic; 
+} 
+
+ul{
+	float: right;
+	list-style-type: none;
+    margin-top: 25px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.logo img{
+	float: left;
+	width: 200px;
+	height: auto;
+}
+
+.button{
+	top:62%
+}
+
+.btn{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+html {
+	font-size: 19px;
+}
+
+body {
+	background-image: url(file:///C:/Users/Balaji/Downloads/pngtree-purple-light-effect-electronic-technology-background-backgrounddatabusinessblueelectronictechnologyintelligentblue-backgroundtechnology-backgroundlightcool-image_78722.jpg);
+	background-position: 0 1000px;
+}
+
+.container {
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 0 3rem;
+	margin-top: 4rem;
+	text-align: center;
+}
+
+h1 {
+	color: #990099;
+	font-size: 4rem;
+	font-weight: 700;
+	letter-spacing: 8px;
+	margin-bottom: 2rem;
+}
+
+.image{
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+p {
+	font-size: 1rem;	
+	color: #ff6666;
+	line-height: 2rem;
+	margin-bottom: 1rem;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
